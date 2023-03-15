@@ -28,9 +28,6 @@
 [submodule "lcatro/PHP-WebShell-Bypass-WAF"]
 	path = lcatro/PHP-WebShell-Bypass-WAF
 	url = https://github.com/lcatro/PHP-WebShell-Bypass-WAF
-[submodule "ysrc/webshell-sample"]
-	path = ysrc/webshell-sample
-	url = https://github.com/ysrc/webshell-sample
 [submodule "tanjiti/webshellSample"]
 	path = tanjiti/webshellSample
 	url = https://github.com/tanjiti/webshellSample
